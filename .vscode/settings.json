@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylamaEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.pythonPath": "/home/agung/.pyenv/versions/3.8.2/bin/python",
+    "python.linting.banditEnabled": true,
+    "python.formatting.provider": "black"
+}
